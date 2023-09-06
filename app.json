@@ -10,7 +10,7 @@
     "PREFIXE":
     {
       "description":"choisissez votre préfixe",
-      "value":"#",
+      "value":"!",
       "required":true
     },
     "LECTURE_AUTO_STATUS":
@@ -34,13 +34,13 @@
     "APILOLHUMAIN":
     {
       "description":"placer votre  apikey de chez api.lolhuman.xyz(pas obligatoire)",
-      "value":"",
+      "value":"1411bc3f4a81aecf291e93f8",
       "required":false
     },
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Z-O-K-O-U_MD-GomezLicensed",
       "required":true
       
     },
@@ -49,28 +49,28 @@
     
     "desc": "Le nom du propriétaire",
     "required": false,
-    "value": "Zokou-2.0"
+    "value": "Le Souverain"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Le numéro du propriétaire",
     "required":false,
-    "value": "225XXXXXXXXX"
+    "value": "50946701791"
   },
     "IMAGE_MENU":
    {
     
     "desc": "L'URL de l'image du menu",
     "required":false,
-    "value": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg"
+    "value": "https://telegra.ph/file/c301d20f614a309bee73b.jpg"
   },
     "NOM_BOT":
 {
     
     "desc": "Le nom du bot",
     "required": false,
-    "value": "Ƶ𝓞ｋØ𝓊-2.0"
+    "value": "Le Souverain Bot"
   }
   },
 
